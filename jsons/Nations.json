@@ -3,7 +3,7 @@
 		"name": "Segara Empire",
 		"leaderName": "Ashi Tourmaline I",
 		"adjective": ["Human"],
-		"startBias": ["Tundra"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Segara Empire",
