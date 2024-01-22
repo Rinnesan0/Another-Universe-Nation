@@ -20,9 +20,9 @@
 		"neutralYes": ["That offer its fair enough.","Im gladly accept it.","Thank your for the deal we make."],
 
 		"hateHello": "Looks like the invaders come here to talk about something.",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateLetsHearIt": ["I dont want to hear you.","Leave our empire alone.","Make this quick so i dont waste time talking to someone like you."],
+		"hateNo": ["Are you losing your mind?","Are you joking with me?","Looks like you already lost your mind."],
+		"hateYes": ["Fine.","Thats it?","okay."],
 		
 		"afterPeace": "War its just meaningless anyways.",
 		"tradeRequest": "Im offering a deal to make our nation relationship closer.",
