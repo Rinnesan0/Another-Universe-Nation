@@ -14,10 +14,10 @@
 		"defeated": "How is it possible that my army got wiped out so fast?",
 		"introduction": "Welcome to the empire, Im the queen Ashi I. The leader of this empire.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings, Its your country doing well? We hope your nation also prospering.",
+		"neutralLetsHearIt": ["Lets see the offer.","What do you offer this time?","You may begin the offer."],
+		"neutralNo": ["Sorry, but we are unable to accept that offer.","Im gonna refuse it, sorry.","Its not a fair deal for us."],
+		"neutralYes": ["That offer its fair enough.","Im gladly accept it.","Thank your for the deal we make."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
