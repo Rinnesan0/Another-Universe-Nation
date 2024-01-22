@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Segara Empire",
-		"leaderName": "Queen Erisa Ruby",
+		"leaderName": "Queen Ashi I",
 		"adjective": ["Human"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Welcome to the empire, Im the queen Ashi I. The leader of this empire.",
+		"startIntroPart2": "Nice",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
